@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "943630167876",
+    "firebase_url": "https://puppymart-23f43.firebaseio.com",
+    "project_id": "puppymart-23f43",
+    "storage_bucket": "puppymart-23f43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943630167876:android:25c77029fbeefbf2ea3111",
+        "android_client_info": {
+          "package_name": "com.skybridge.puppymart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943630167876-glbhmbvqper7c7f2gi1dljf9dvjae88e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skybridge.puppymart",
+            "certificate_hash": "83a8dd61724a3b068a627e2523808d465845c561"
+          }
+        },
+        {
+          "client_id": "943630167876-07rnbkegonej4ihraf1io06ppkvqc4d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr2yri0j8wAK2HBSAAncq0cOYUuEh0FGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943630167876-07rnbkegonej4ihraf1io06ppkvqc4d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
